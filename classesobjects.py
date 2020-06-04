@@ -76,7 +76,7 @@ class obj:
         print(obj.c)
 o1=obj()
 o2=obj()
-obj.display()
+#obj.display()
 
 
 
